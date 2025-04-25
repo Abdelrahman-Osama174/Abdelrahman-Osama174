@@ -11,17 +11,17 @@ I’ve worked on marketplace-style applications, managed media uploads with Clou
 
 - 🌱 I’m currently learning more about Docker and microservices architecture.
 - 💼 I’m looking for backend development opportunities where I can contribute and grow.
-- 📫 How to reach me: **abdelrahmanosama.dev@gmail.com**
+- 📫 How to reach me: **abdelrahman.o174@gmail.com**
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-osama" target="blank">
+  <a href="https://www.linkedin.com/in/abdelrahman-osama-a7011b361/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-osama" height="30" width="40" />
   </a>
-  <a href="https://wa.me/+201027964469" target="blank">
+  <a href="https://wa.me/+201121863185" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
   </a>
 </p>
