@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Abdelrahman Osama 👋</h1>
 <h2 align="center">Back-End Developer | Java & Spring Boot</h2>
 
@@ -16,7 +15,7 @@
 - 💻 Backend Developer specialized in **Java & Spring Boot**  
 - 🔐 Experienced in **JWT Authentication & Spring Security**  
 - 🧠 Strong understanding of **OOP, Clean Architecture, REST APIs**  
-- 🎯 Currently looking for **Junior Backend / Internship فرص**
+- 🎯 Currently looking for **Junior Backend / Internship**
 
 ---
 
